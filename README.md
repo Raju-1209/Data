@@ -30,6 +30,6 @@ This project involves analyzing Brazil’s e-commerce sales data using Power BI 
 
 This project helped me enhance my analytical skills and understand the significance of data-driven decision-making in e-commerce. 🚀
 
-🔗 [Add GitHub Repository Link Here]
+🔗 - <a href="https://github.com/Raju-1209/Data/blob/main/Brazil%20E-Commerce%20Sales%20Data%20Analysis.pdf">Brazil E-Commerce Sales Data Analysis</a>
 
 #PowerBI #DataAnalytics #EcommerceAnalysis #DataVisualization #BusinessIntelligence
